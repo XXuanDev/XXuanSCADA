@@ -13,9 +13,9 @@ PLC：西门子 200 SMART
 
 ### 软件界面
 
-![](D:\Administrator\桌面\GitRepos\XXuanSCADA\Images\XXuanSCADALogin.png)
+![](Images/XXuanSCADALogin.png)
 
-![](D:\Administrator\桌面\GitRepos\XXuanSCADA\Images\XXuanSCADAMainForm.png)
+![](Images/XXuanSCADAMainForm.png)
 
 
 
